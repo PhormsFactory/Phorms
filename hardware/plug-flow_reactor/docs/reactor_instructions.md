@@ -2,9 +2,9 @@
 
 Renders of the exterior and the internal structure are available below :
 
-[pfr_exterior.png](https://github.com/<user>/<repo>/releases/download/v1.0/big_model.stl)
+[pfr_exterior.png](https://github.com/PhormsFactory/Phorms/blob/main/hardware/plug-flow_reactor/docs/pfr_render.png)
 
-[pfr_interior.png](https://github.com/<user>/<repo>/releases/download/v1.0/big_model.stl)
+[pfr_interior.png](https://github.com/PhormsFactory/Phorms/blob/main/hardware/plug-flow_reactor/docs/pfr_interior.png)
 
 ## 📖 Description
 
@@ -62,7 +62,7 @@ The model contains a lot of vertices and is heavy. It is available for download 
 
 | Link | Version | Size | Status |
 | ---- | ------- | ---- | ------ |
-| [plug-flow_reactor.stl](https://github.com/<user>/<repo>/releases/download/v1.0/big_model.stl) | 0.1 | 144Mb | Print OK, watertightness tests ongoing |
+| [plug-flow_reactor.stl](https://github.com/PhormsFactory/Phorms/releases/download/v0.1.0-alpha/plug-flow_reactor.stl) | 0.1.0-alpha | 138Mb | Print OK, watertightness tests ongoing |
 
 ### Notes
 Feedback from early prints to avoid leaks :
